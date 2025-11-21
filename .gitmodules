@@ -1,3 +1,9 @@
 [submodule "test-app/demos"]
 	path = test-app/demos
 	url = https://gitlab.freedesktop.org/mesa/demos.git
+[submodule "test-app/kmscube"]
+	path = test-app/kmscube
+	url = https://gitlab.freedesktop.org/mesa/kmscube.git
+[submodule "mesa-driver/mesa-24"]
+	path = mesa-driver/mesa-24
+	url = https://github.com/chai-yuan/mesa-24.git
