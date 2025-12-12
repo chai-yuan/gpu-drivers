@@ -1,4 +1,6 @@
-obj-m += prism_drv.o
+obj-m += prism.o
+
+prism-y := prism_drv.o prism_dev.o
 
 KDIR := /home/charain/Project/qemu_vm/driver/linux-6.17.3/
 
